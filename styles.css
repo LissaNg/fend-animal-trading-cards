@@ -1,0 +1,46 @@
+/* add your CSS here */
+body {
+
+    border: 2px solid #bdb9bd;
+    box-shadow: 10px 9px 0px 0px rgba(235,235,235,1);
+    width: 350px;
+}
+
+.card {
+    padding: 15px;
+    background-color: #D3D3D3;
+}
+
+img {
+    width: 300px;
+    padding-bottom: 10px;
+    display: block;
+    margin: auto;
+}
+
+.text-box {
+    border: 3px solid #bdb9bd;
+
+}
+
+.fact {
+    font-style: italic;
+    padding-left: 10px;
+
+}
+
+ul {
+    list-style: none;
+    margin-left: -30px;
+    padding-right: 10px;
+}
+
+
+.description {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.list-item {
+    font-weight: bold;
+}
